@@ -7,7 +7,6 @@
     <string name="humidity">Humidity</string>
     <string name="description">Description</string>
     <string name="get_weather">Get Weather</string>
-    <string name="get_weather_desc">Get Weather with min 3 key words</string>
     <string name="text_cancel">Cancel</string>
     <string name="text_ok">OK</string>
     <string name="content_unexpected_error">There was a problem with this loading. Please try again later.</string>
