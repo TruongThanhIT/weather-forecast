@@ -80,13 +80,14 @@ Receive a request to get data. Switch data between remote and local to return a 
 7. Exception handling
 8. Caching handling (using hashMap instead of DataBase cause weather forecast information can be changed by time)
 9. Secure Android app from:
-   a. Decompile APK (ProGuard)
-   d. Encryption for sensitive information (Encrypt in share preference)
+   - a. Decompile APK (ProGuard)
+   - d. Encryption for sensitive information (Encrypt in share preference)
 10. Accessibility for Disability Supports:
    a. Talkback: Use a screen reader.
-12. Solution diagrams for the components, infrastructure design
-13. Readme file includes:
-   a. A brief explanation for the software development principles, patterns & practices being applied
-   b. A brief explanation for the code folder structure and the key Kotlin libraries and frameworks being used
-   c. All the required steps to get the application run on local computer
-   d. A checklist of items has been done.
+11. Solution diagrams for the components, infrastructure design.
+12. Readme file includes:
+      - a. A brief explanation for the software development principles, patterns & practices being applied
+      - b. A brief explanation for the code folder structure and the key Kotlin libraries and frameworks being used
+      - c. All the required steps to get the application run on local computer
+      - d. A checklist of items has been done.
+      - d. A checklist of items has been done.
