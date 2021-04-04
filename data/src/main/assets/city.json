@@ -1,0 +1,2135 @@
+[{
+    "id": 1560349,
+    "coord": {
+      "lon": 104.866669,
+      "lat": 21.700001
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559978
+    },
+    "name": "Yen Bai",
+    "stat": {
+      "level": 1.0,
+      "population": 96540
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1562414,
+    "coord": {
+      "lon": 107.084259,
+      "lat": 10.34599
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1584534
+    },
+    "name": "Vung Tau",
+    "stat": {
+      "level": 1.0,
+      "population": 209683
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 70,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 1562548,
+    "coord": {
+      "lon": 105.596672,
+      "lat": 21.309999
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905856
+    },
+    "name": "Vinh Yen",
+    "stat": {
+      "level": 1.0,
+      "population": 17876
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1562693,
+    "coord": {
+      "lon": 105.966667,
+      "lat": 10.25
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559977
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Vinh_Long"
+      }
+    ],
+    "name": "Vinh Long",
+    "stat": {
+      "level": 1.0,
+      "population": 103314
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 97,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 1562798,
+    "coord": {
+      "lon": 105.666672,
+      "lat": 18.66667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559969
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Vinh"
+      }
+    ],
+    "name": "Vinh",
+    "stat": {
+      "level": 1.0,
+      "population": 163759
+    },
+    "zoom": 6
+  },
+  {
+    "id": 1562820,
+    "coord": {
+      "lon": 105.430832,
+      "lat": 21.301941
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905577
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Viet_Tri"
+      }
+    ],
+    "name": "Viet Tri",
+    "stat": {
+      "level": 1.0,
+      "population": 93475
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1563241,
+    "coord": {
+      "lon": 106.783333,
+      "lat": 21.033331
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1568758
+    },
+    "name": "Uong Bi",
+    "stat": {
+      "level": 1.0,
+      "population": 63829
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1563281,
+    "coord": {
+      "lon": 109.300003,
+      "lat": 13.08333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1569805
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tuy_Hoa"
+      }
+    ],
+    "name": "Tuy Hoa",
+    "stat": {
+      "level": 1.0,
+      "population": 69596
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1563287,
+    "coord": {
+      "lon": 105.218063,
+      "lat": 21.82333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559976
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tuyen_Quang"
+      },
+      {
+        "vi": "Tuyên Quang"
+      }
+    ],
+    "name": "Tuyen Quang",
+    "stat": {
+      "level": 1.0,
+      "population": 36430
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1563926,
+    "coord": {
+      "lon": 106.345284,
+      "lat": 9.93472
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559975
+    },
+    "name": "Tra Vinh",
+    "stat": {
+      "level": 1.0,
+      "population": 57408
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1565022,
+    "coord": {
+      "lon": 106.650002,
+      "lat": 10.96667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905475
+    },
+    "langs": [
+      {
+        "en": "Thu Dau Mot"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Thu_Dau_Mot"
+      },
+      {
+        "pl": "Thu Dau Mot"
+      },
+      {
+        "sv": "Thu Dau Mot"
+      }
+    ],
+    "name": "Thu Dau Mot",
+    "stat": {
+      "level": 1.0,
+      "population": 91009
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 16,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 1566083,
+    "coord": {
+      "lon": 106.666672,
+      "lat": 10.75
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1580578
+    },
+    "name": "Thanh pho Ho Chi Minh",
+    "stat": {
+      "level": 1.0,
+      "population": 1000000
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 7,
+        "kf": 1
+      }
+    ],
+    "zoom": 5
+  },
+  {
+    "id": 1566166,
+    "coord": {
+      "lon": 105.76667,
+      "lat": 19.799999
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1566165
+    },
+    "name": "Thanh Hoa",
+    "stat": {
+      "level": 1.0,
+      "population": 112473
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1566319,
+    "coord": {
+      "lon": 105.84417,
+      "lat": 21.592779
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905497
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Thai_Nguyen"
+      },
+      {
+        "ru": "Тай-Нгуен"
+      }
+    ],
+    "name": "Thai Nguyen",
+    "stat": {
+      "level": 1.0,
+      "population": 133877
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1566346,
+    "coord": {
+      "lon": 106.333328,
+      "lat": 20.450001
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1566338
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Thai_Binh"
+      }
+    ],
+    "name": "Thai Binh",
+    "stat": {
+      "level": 1.0,
+      "population": 53071
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1566559,
+    "coord": {
+      "lon": 106.099998,
+      "lat": 11.3
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1566557
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tay_Ninh"
+      }
+    ],
+    "name": "Tay Ninh",
+    "stat": {
+      "level": 1.0,
+      "population": 36456
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 80,
+        "kf": 1
+      }
+    ],
+    "zoom": 13
+  },
+  {
+    "id": 1567069,
+    "coord": {
+      "lon": 106.416672,
+      "lat": 10.53333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1575788
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tan_An"
+      },
+      {
+        "ru": "Тан"
+      }
+    ],
+    "name": "Tan An",
+    "stat": {
+      "level": 1.0,
+      "population": 64801
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 40,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 1567148,
+    "coord": {
+      "lon": 108.48333,
+      "lat": 15.56667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905516
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Tam_Ky"
+      }
+    ],
+    "name": "Tam Ky",
+    "stat": {
+      "level": 1.0,
+      "population": 59000
+    },
+    "stations": [
+      {
+        "id": 7978,
+        "dist": 60,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1567621,
+    "coord": {
+      "lon": 105.504997,
+      "lat": 21.137779
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1581019
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Son_Tay"
+      },
+      {
+        "ru": "Сон-Тай"
+      }
+    ],
+    "name": "Son Tay",
+    "stat": {
+      "level": 1.0,
+      "population": 40636
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1567681,
+    "coord": {
+      "lon": 103.900002,
+      "lat": 21.316669
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1567643
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Son_La"
+      },
+      {
+        "ru": "Сон-Ла"
+      }
+    ],
+    "name": "Son La",
+    "stat": {
+      "level": 1.0,
+      "population": 19054
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1567723,
+    "coord": {
+      "lon": 109.216667,
+      "lat": 13.45
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1569805
+    },
+    "langs": [
+      {
+        "en": "Song Cau"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Song_Cau"
+      }
+    ],
+    "name": "Song Cau",
+    "stat": {
+      "level": 1.0,
+      "population": 94066
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1567788,
+    "coord": {
+      "lon": 105.980003,
+      "lat": 9.60333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559972
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Soc_Trang"
+      },
+      {
+        "ru": "Шокчанг"
+      }
+    ],
+    "name": "Soc Trang",
+    "stat": {
+      "level": 1.0,
+      "population": 114453
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1568043,
+    "coord": {
+      "lon": 103.844147,
+      "lat": 22.340231
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1562412
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Sa_Pa"
+      },
+      {
+        "ru": "Шапа"
+      }
+    ],
+    "name": "Sa Pa",
+    "stat": {
+      "level": 1.0,
+      "population": 138622
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1568212,
+    "coord": {
+      "lon": 105.76667,
+      "lat": 10.3
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1582562
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Sa_Dec"
+      }
+    ],
+    "name": "Sa Dec",
+    "stat": {
+      "level": 1.0,
+      "population": 60073
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1568510,
+    "coord": {
+      "lon": 105.083328,
+      "lat": 10.01667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1579008
+    },
+    "name": "Rach Gia",
+    "stat": {
+      "level": 1.0,
+      "population": 228356
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1568574,
+    "coord": {
+      "lon": 109.23333,
+      "lat": 13.76667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1587871
+    },
+    "name": "Quy Nhon",
+    "stat": {
+      "level": 1.0,
+      "population": 210338
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1568770,
+    "coord": {
+      "lon": 108.800003,
+      "lat": 15.11667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1568769
+    },
+    "name": "Quang Ngai",
+    "stat": {
+      "level": 1.0,
+      "population": 32992
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1569684,
+    "coord": {
+      "lon": 108.0,
+      "lat": 13.98333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581088
+    },
+    "name": "Pleiku",
+    "stat": {
+      "level": 1.0,
+      "population": 114225
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1570449,
+    "coord": {
+      "lon": 105.913887,
+      "lat": 20.541109
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905637
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Phu_Ly"
+      }
+    ],
+    "name": "Phu Ly",
+    "stat": {
+      "level": 1.0,
+      "population": 31801
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1570549,
+    "coord": {
+      "lon": 106.133331,
+      "lat": 11.28333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1566557
+    },
+    "name": "Phu Khuong",
+    "stat": {
+      "level": 1.0,
+      "population": 47966
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 76,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 1571058,
+    "coord": {
+      "lon": 108.099998,
+      "lat": 10.93333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581882
+    },
+    "name": "Phan Thiet",
+    "stat": {
+      "level": 1.0,
+      "population": 160652
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1571067,
+    "coord": {
+      "lon": 108.98333,
+      "lat": 11.56667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559971
+    },
+    "langs": [
+      {
+        "en": "Phan Rang-Tháp Chàm"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Phan_Rang-Thap_Cham"
+      },
+      {
+        "sv": "Phan Rang-Thap Cham"
+      }
+    ],
+    "name": "Phan Rang-Thap Cham",
+    "stat": {
+      "level": 1.0,
+      "population": 91520
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1571968,
+    "coord": {
+      "lon": 105.974998,
+      "lat": 20.253889
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1559970
+    },
+    "name": "Ninh Binh",
+    "stat": {
+      "level": 1.0,
+      "population": 36864
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1572151,
+    "coord": {
+      "lon": 109.183327,
+      "lat": 12.25
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1579634
+    },
+    "langs": [
+      {
+        "de": "Nha Trang"
+      },
+      {
+        "en": "Nha Trang"
+      },
+      {
+        "es": "Nha Trang"
+      },
+      {
+        "fr": "Nha Trang"
+      },
+      {
+        "ja": "ニャチャン"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Nha_Trang"
+      },
+      {
+        "no": "Nha Trang"
+      },
+      {
+        "pl": "Nha Trang"
+      },
+      {
+        "pt": "Nha Trang"
+      },
+      {
+        "ru": "Нячанг"
+      },
+      {
+        "sv": "Nha Trang"
+      },
+      {
+        "vi": "Nha Trang"
+      }
+    ],
+    "name": "Nha Trang",
+    "stat": {
+      "level": 1.0,
+      "population": 283441
+    },
+    "zoom": 6
+  },
+  {
+    "id": 1573517,
+    "coord": {
+      "lon": 106.166672,
+      "lat": 20.41667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905626
+    },
+    "name": "Nam Dinh",
+    "stat": {
+      "level": 1.0,
+      "population": 193499
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1574023,
+    "coord": {
+      "lon": 106.349998,
+      "lat": 10.35
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1564676
+    },
+    "name": "My Tho",
+    "stat": {
+      "level": 1.0,
+      "population": 122310
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 61,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1575627,
+    "coord": {
+      "lon": 105.416672,
+      "lat": 10.38333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1594446
+    },
+    "name": "Long Xuyen",
+    "stat": {
+      "level": 1.0,
+      "population": 158153
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1576303,
+    "coord": {
+      "lon": 103.949997,
+      "lat": 22.48333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1562412
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Lao_Cai"
+      },
+      {
+        "ru": "Лаокай"
+      }
+    ],
+    "name": "Lao Cai",
+    "stat": {
+      "level": 1.0,
+      "population": 36502
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1576633,
+    "coord": {
+      "lon": 106.73333,
+      "lat": 21.83333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1576632
+    },
+    "name": "Lang Son",
+    "stat": {
+      "level": 1.0,
+      "population": 55981
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1577995,
+    "coord": {
+      "lon": 107.783333,
+      "lat": 10.66667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1562822
+    },
+    "name": "Lagi",
+    "stat": {
+      "level": 1.0,
+      "population": 160652
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1578500,
+    "coord": {
+      "lon": 108.0,
+      "lat": 14.35
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1565088
+    },
+    "name": "Kon Tum",
+    "stat": {
+      "level": 1.0,
+      "population": 47409
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1580142,
+    "coord": {
+      "lon": 106.066673,
+      "lat": 20.65
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905699
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/H%C6%B0ng_Y%C3%AAn_Province"
+      }
+    ],
+    "name": "Hung Yen",
+    "stat": {
+      "level": 1.0,
+      "population": 40273
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1580240,
+    "coord": {
+      "lon": 107.599998,
+      "lat": 16.466669
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1565033
+    },
+    "name": "Hue",
+    "stat": {
+      "level": 1.0,
+      "population": 287217
+    },
+    "stations": [
+      {
+        "id": 7982,
+        "dist": 12,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 1580410,
+    "coord": {
+      "lon": 107.080002,
+      "lat": 20.951111
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1568758
+    },
+    "langs": [
+      {
+        "en": "Ha Long"
+      },
+      {
+        "eo": "Ha Long"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Ha_Long"
+      },
+      {
+        "ru": "Халонг"
+      },
+      {
+        "sv": "Ha Long"
+      },
+      {
+        "zh": "下龙市"
+      }
+    ],
+    "name": "Ha Long",
+    "stat": {
+      "level": 1.0,
+      "population": 148066
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1580541,
+    "coord": {
+      "lon": 108.334999,
+      "lat": 15.87944
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1905516
+    },
+    "langs": [
+      {
+        "de": "Hội An"
+      },
+      {
+        "en": "Hoi An"
+      },
+      {
+        "fr": "Hôi An"
+      },
+      {
+        "it": "Hoi An"
+      },
+      {
+        "ja": "ホイアン"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Hoi_An"
+      },
+      {
+        "nl": "Hoi An"
+      },
+      {
+        "no": "Hoi An"
+      },
+      {
+        "ru": "Хой"
+      },
+      {
+        "sv": "Hoi An"
+      },
+      {
+        "vi": "Hội An"
+      }
+    ],
+    "name": "Hoi An",
+    "stat": {
+      "level": 1.0,
+      "population": 32757
+    },
+    "stations": [
+      {
+        "id": 7978,
+        "dist": 22,
+        "kf": 1
+      }
+    ],
+    "zoom": 10
+  },
+  {
+    "id": 1580830,
+    "coord": {
+      "lon": 105.338333,
+      "lat": 20.81333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1572594
+    },
+    "name": "Hoa Binh",
+    "stat": {
+      "level": 1.0,
+      "population": 105260
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1581047,
+    "coord": {
+      "lon": 105.900002,
+      "lat": 18.33333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1580700
+    },
+    "name": "Ha Tinh",
+    "stat": {
+      "level": 1.0,
+      "population": 27728
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1581052,
+    "coord": {
+      "lon": 104.48333,
+      "lat": 10.38333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1579008
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ha_Tien"
+      },
+      {
+        "ru": "Хатьен"
+      }
+    ],
+    "name": "Ha Tien",
+    "stat": {
+      "level": 1.0,
+      "population": 40000
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1581130,
+    "coord": {
+      "lon": 105.841171,
+      "lat": 21.0245
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLC",
+      "parent": 1581129
+    },
+    "langs": [
+      {
+        "am": "ሀኖይ"
+      },
+      {
+        "ar": "هانوي"
+      },
+      {
+        "bs": "Hanoi"
+      },
+      {
+        "ca": "Hanoi"
+      },
+      {
+        "cs": "Hanoj"
+      },
+      {
+        "da": "Hanoi"
+      },
+      {
+        "de": "Hanoi"
+      },
+      {
+        "el": "Ανόι"
+      },
+      {
+        "en": "Hanoi"
+      },
+      {
+        "eo": "Hanoi"
+      },
+      {
+        "es": "Hanói"
+      },
+      {
+        "et": "Hanoi"
+      },
+      {
+        "eu": "Hanoi"
+      },
+      {
+        "fa": "هانوی"
+      },
+      {
+        "fi": "Hanoi"
+      },
+      {
+        "fr": "Hanoï"
+      },
+      {
+        "ga": "Ha Noi"
+      },
+      {
+        "he": "האנוי"
+      },
+      {
+        "hu": "Hanoi"
+      },
+      {
+        "id": "Hanoi"
+      },
+      {
+        "io": "Hanoi"
+      },
+      {
+        "it": "Hanoi"
+      },
+      {
+        "ja": "ハノイ"
+      },
+      {
+        "ko": "하노이"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Hanoi"
+      },
+      {
+        "lt": "Hanojus"
+      },
+      {
+        "nds": "Hanoi"
+      },
+      {
+        "nl": "Hanoi"
+      },
+      {
+        "nn": "Hanoi"
+      },
+      {
+        "no": "Hanoi"
+      },
+      {
+        "pl": "Hanoi"
+      },
+      {
+        "pt": "Hanói"
+      },
+      {
+        "ru": "Ханой"
+      },
+      {
+        "sk": "Hanoj"
+      },
+      {
+        "sl": "Hanoj"
+      },
+      {
+        "sv": "Hanoi"
+      },
+      {
+        "tg": "Ханой"
+      },
+      {
+        "th": "ฮานอย"
+      },
+      {
+        "tl": "Hanoi"
+      },
+      {
+        "tr": "Hanoi"
+      },
+      {
+        "vi": "Hà Nội"
+      },
+      {
+        "zh": "河內"
+      }
+    ],
+    "name": "Ha Noi",
+    "stat": {
+      "level": 1.0,
+      "population": 1431270
+    },
+    "zoom": 6
+  },
+  {
+    "id": 1581298,
+    "coord": {
+      "lon": 106.68222,
+      "lat": 20.85611
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581297
+    },
+    "name": "Haiphong",
+    "stat": {
+      "level": 1.0,
+      "population": 602695
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1581326,
+    "coord": {
+      "lon": 106.316673,
+      "lat": 20.933331
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905686
+    },
+    "name": "Hai Duong",
+    "stat": {
+      "level": 1.0,
+      "population": 58030
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1581349,
+    "coord": {
+      "lon": 104.98333,
+      "lat": 22.83333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581030
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Ha_Giang"
+      }
+    ],
+    "name": "Ha Giang",
+    "stat": {
+      "level": 1.0,
+      "population": 32690
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1581364,
+    "coord": {
+      "lon": 105.777222,
+      "lat": 20.9725
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581019
+    },
+    "name": "Ha Dong",
+    "stat": {
+      "level": 1.0,
+      "population": 50877
+    },
+    "zoom": 12
+  },
+  {
+    "id": 1582436,
+    "coord": {
+      "lon": 106.916672,
+      "lat": 11.53333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905480
+    },
+    "langs": [
+      {
+        "en": "Dong Xoai"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Dong_Xoai"
+      },
+      {
+        "sv": "Dong Xoai"
+      }
+    ],
+    "name": "Dong Xoai",
+    "stat": {
+      "level": 1.0,
+      "population": 23978
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 84,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1582886,
+    "coord": {
+      "lon": 106.599998,
+      "lat": 17.48333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1568839
+    },
+    "name": "Dong Hoi",
+    "stat": {
+      "level": 1.0,
+      "population": 31040
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1582926,
+    "coord": {
+      "lon": 107.100311,
+      "lat": 16.81625
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1568733
+    },
+    "langs": [
+      {
+        "en": "Dong Ha"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Dong_Ha"
+      },
+      {
+        "sv": "Dong Ha"
+      }
+    ],
+    "name": "Dong Ha",
+    "stat": {
+      "level": 1.0,
+      "population": 17662
+    },
+    "stations": [
+      {
+        "id": 7982,
+        "dist": 79,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1583477,
+    "coord": {
+      "lon": 103.01667,
+      "lat": 21.383329
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905099
+    },
+    "langs": [
+      {
+        "ca": "Dien Bien Phu"
+      },
+      {
+        "da": "Dien Bien Phu"
+      },
+      {
+        "de": "Điện Biên Phủ"
+      },
+      {
+        "en": "Dien Bien Phu"
+      },
+      {
+        "es": "Dien Bien Phu"
+      },
+      {
+        "fi": "Dien Bien Phu"
+      },
+      {
+        "fr": "Ðiện Biên Phủ"
+      },
+      {
+        "hr": "Opsada Điện Biên Phủa"
+      },
+      {
+        "hu": "Dien Bien Phu"
+      },
+      {
+        "ja": "ディエンビエンフー"
+      },
+      {
+        "ko": "디엔비엔푸"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Dien_Bien_Phu"
+      },
+      {
+        "nl": "Dien Bien Phu"
+      },
+      {
+        "no": "Dien Bien Phu"
+      },
+      {
+        "pl": "Dien Bien Phu"
+      },
+      {
+        "ru": "Дьен Бьен Фу"
+      },
+      {
+        "sv": "Dien Bien Phu"
+      },
+      {
+        "vi": "Điện Biên Phủ"
+      },
+      {
+        "zh": "奠邊府"
+      }
+    ],
+    "name": "Dien Bien Phu",
+    "stat": {
+      "level": 1.0,
+      "population": 40282
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1583992,
+    "coord": {
+      "lon": 108.220833,
+      "lat": 16.06778
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905468
+    },
+    "name": "Turan",
+    "stat": {
+      "level": 1.0,
+      "population": 752493
+    },
+    "stations": [
+      {
+        "id": 7978,
+        "dist": 3,
+        "kf": 1
+      }
+    ],
+    "zoom": 5
+  },
+  {
+    "id": 1584071,
+    "coord": {
+      "lon": 108.441933,
+      "lat": 11.94646
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1577882
+    },
+    "name": "Da Lat",
+    "stat": {
+      "level": 1.0,
+      "population": 197000
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1584661,
+    "coord": {
+      "lon": 106.466667,
+      "lat": 10.96667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1580578
+    },
+    "langs": [
+      {
+        "ru": "Ку-Чи"
+      }
+    ],
+    "name": "Cu Chi",
+    "stat": {
+      "level": 1.0,
+      "population": 75000
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 25,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1585660,
+    "coord": {
+      "lon": 105.116669,
+      "lat": 10.7
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1594446
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Chau_Doc"
+      }
+    ],
+    "name": "Chau Doc",
+    "stat": {
+      "level": 1.0,
+      "population": 70239
+    },
+    "stations": [
+      {
+        "id": 7872,
+        "dist": 99,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1586151,
+    "coord": {
+      "lon": 105.633331,
+      "lat": 10.45
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1582562
+    },
+    "langs": [
+      {
+        "en": "Cao Lanh"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/Cao_Lanh"
+      },
+      {
+        "sv": "Cao Lanh"
+      }
+    ],
+    "name": "Cao Lanh",
+    "stat": {
+      "level": 1.0,
+      "population": 63770
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1586185,
+    "coord": {
+      "lon": 106.25,
+      "lat": 22.66667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1586182
+    },
+    "name": "Cao Bang",
+    "stat": {
+      "level": 1.0,
+      "population": 41112
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1586203,
+    "coord": {
+      "lon": 105.783333,
+      "lat": 10.03333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1581188
+    },
+    "name": "Can Tho",
+    "stat": {
+      "level": 1.0,
+      "population": 259598
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1586288,
+    "coord": {
+      "lon": 106.966667,
+      "lat": 10.41667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1580578
+    },
+    "langs": [
+      {
+        "en": "Can Gio"
+      }
+    ],
+    "name": "Can Gio",
+    "stat": {
+      "level": 1.0,
+      "population": 55137
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 56,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 1586296,
+    "coord": {
+      "lon": 106.666672,
+      "lat": 10.61667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1575788
+    },
+    "langs": [
+      {
+        "en": "Can Giuoc"
+      }
+    ],
+    "name": "Can Duoc",
+    "stat": {
+      "level": 1.0,
+      "population": 152200
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 22,
+        "kf": 1
+      }
+    ],
+    "zoom": 9
+  },
+  {
+    "id": 1586350,
+    "coord": {
+      "lon": 109.159126,
+      "lat": 11.92144
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1579634
+    },
+    "langs": [
+      {
+        "ru": "Камрань"
+      }
+    ],
+    "name": "Cam Ranh",
+    "stat": {
+      "level": 1.0,
+      "population": 146771
+    },
+    "zoom": 7
+  },
+  {
+    "id": 1586357,
+    "coord": {
+      "lon": 107.300003,
+      "lat": 21.01667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1568758
+    },
+    "name": "Cam Pha Mines",
+    "stat": {
+      "level": 1.0,
+      "population": 135477
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1586443,
+    "coord": {
+      "lon": 105.150002,
+      "lat": 9.17694
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905678
+    },
+    "name": "Ca Mau",
+    "stat": {
+      "level": 1.0,
+      "population": 111894
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1586896,
+    "coord": {
+      "lon": 108.050003,
+      "lat": 12.66667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1584169
+    },
+    "name": "Buon Ma Thuot",
+    "stat": {
+      "level": 1.0,
+      "population": 146975
+    },
+    "zoom": 8
+  },
+  {
+    "id": 1587919,
+    "coord": {
+      "lon": 105.860283,
+      "lat": 20.07806
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPL",
+      "parent": 1566165
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bim_Son"
+      }
+    ],
+    "name": "Bim Son",
+    "stat": {
+      "level": 1.0,
+      "population": 53754
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1587923,
+    "coord": {
+      "lon": 106.816673,
+      "lat": 10.95
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1582720
+    },
+    "name": "Bien Hoa",
+    "stat": {
+      "level": 1.0,
+      "population": 407208
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 23,
+        "kf": 1
+      }
+    ],
+    "zoom": 8
+  },
+  {
+    "id": 1587976,
+    "coord": {
+      "lon": 106.383331,
+      "lat": 10.23333
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1587974
+    },
+    "name": "Ben Tre",
+    "stat": {
+      "level": 1.0,
+      "population": 59442
+    },
+    "stations": [
+      {
+        "id": 7985,
+        "dist": 71,
+        "kf": 1
+      }
+    ],
+    "zoom": 11
+  },
+  {
+    "id": 1591449,
+    "coord": {
+      "lon": 106.050003,
+      "lat": 21.183331
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905412
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bac_Ninh"
+      }
+    ],
+    "name": "Bac Ninh",
+    "stat": {
+      "level": 1.0,
+      "population": 43564
+    },
+    "zoom": 10
+  },
+  {
+    "id": 1591474,
+    "coord": {
+      "lon": 105.724442,
+      "lat": 9.285
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905675
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bac_Lieu"
+      }
+    ],
+    "name": "Thanh pho Bac Lieu",
+    "stat": {
+      "level": 1.0,
+      "population": 107911
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1591527,
+    "coord": {
+      "lon": 106.199997,
+      "lat": 21.26667
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905419
+    },
+    "langs": [
+      {
+        "link": "http://en.wikipedia.org/wiki/Bac_Giang"
+      }
+    ],
+    "name": "Bac Giang",
+    "stat": {
+      "level": 1.0,
+      "population": 53728
+    },
+    "zoom": 9
+  },
+  {
+    "id": 1591538,
+    "coord": {
+      "lon": 105.833328,
+      "lat": 22.133329
+    },
+    "country": "VN",
+    "geoname": {
+      "cl": "P",
+      "code": "PPLA",
+      "parent": 1905669
+    },
+    "langs": [
+      {
+        "en": "Bac Kan"
+      },
+      {
+        "link": "http://en.wikipedia.org/wiki/B%E1%BA%AFc_K%E1%BA%A1n"
+      },
+      {
+        "lt": "Bac Kan"
+      },
+      {
+        "sv": "Bac Kan"
+      }
+    ],
+    "name": "Bac Kan",
+    "stat": {
+      "level": 1.0,
+      "population": 17701
+    },
+    "zoom": 9
+  }]
